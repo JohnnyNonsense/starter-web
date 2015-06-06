@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Greg Larson greg.larson08@gmail.com <no twitter>
 
 # THANKS
 
